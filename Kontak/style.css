@@ -1,0 +1,84 @@
+* {
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    font-family: monospace;
+    position : relative;
+}
+
+body {
+    background-color: rgb(14, 78, 134);
+    margin: 10px;
+    padding: 10px;
+}
+
+table {
+    border-radius: 5px;
+    width: 100%;
+}
+
+#tabel {
+    border-radius: 5px;
+    height: 20vh;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 10pt;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#mainmenu {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+
+#isi {
+    text-align: center;
+    padding : 30px;
+    font-size: 120pt;
+    color: rgb(255, 251, 251);
+    background-color: rgb(0, 0, 0);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.konten {
+    display: inline-flex;
+    border: none;
+    align-content: center;
+    font-size: 30pt;
+    margin-inline-start: 30%;
+    margin-top: 40px;
+    margin-bottom: -80px;
+}
+
+.gbr1{
+    display: inline-flex;
+    border :none;
+    text-align: center;
+    margin-left: -400px;
+    margin-block-start: 140px;
+    margin-inline-start: -130px;
+}
+
+.gbr1 img {
+    margin-right: -220px;
+}
+.gbr1 p {
+    margin-top: 10px;
+    font-size: 10pt;
+    color: rgb(255, 255, 255);
+    align-content: center;
+}
+
+.gbr1 {
+    border-color: black;
+    border: 2px black;
+}
