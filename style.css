@@ -6,6 +6,8 @@
     position : relative;
 }
 
+@media screen and (max-width : 767px) {
+}
 body {
     background-color: rgb(14, 78, 134);
     margin: 10px;
